@@ -11,5 +11,3 @@ citation: 'Schemmer, M., Holstein, J., Bauer, N., Vössing, M., Kühl, N., Satzg
 This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://arxiv.org/pdf/2302.03302.pdf)
-
-Recommended citation:  Schemmer, M., Holstein, J., Bauer, N., Vössing, M., Kühl, N., Satzger, G. (2023) "Towards Meaningful Anomaly Detection: The Effect of Counterfactual Explanations on the Investigation of Anomalies in Multivariate Time Series." <i>Arxiv</i>.

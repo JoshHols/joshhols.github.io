@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am a doctoral student at Karlsruhe Institute of Technology. I am interested in how in ...
+Hey! I am a doctoral student at Karlsruhe Institute of Technology. I am interested in how we can support humans in better understanding large datasets to extract meaningful insights. More specifically, I am looking at aspects of data understanding, human-data interaction, and human-AI collaboration.
 
 News
 ---
