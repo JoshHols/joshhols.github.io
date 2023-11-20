@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering with focus on mechanical engineer, Technical University of Darmstadt (Germany), 2018
+* Semester Abroad, Reichman University Herzeliya (Israel), 2019
+* M.S. in Industrial Engineering and Management, Karlsruhe Institute of Technology (Germany), 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 08/2018 - 02/2019: Intern Revenue Management
+  * Lufthansa AG
+  * Duties included: Reporting etc. 
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant

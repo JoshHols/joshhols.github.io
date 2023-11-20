@@ -2,7 +2,7 @@
 title: "Towards Meaningful Anomaly Detection: The Effect of Counterfactual Explanations on the Investigation of Anomalies in Multivariate Time Series"
 collection: publications
 permalink: /publication/anomaly_investigation
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This study centers on improving anomaly investigation by introducing explainable anomaly detection, demonstrated through a behavioral experiment with New York City taxi data to enhance the accuracy of identifying relevant anomalies.'
 date: 2023-02-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2302.03302.pdf'

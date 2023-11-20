@@ -2,7 +2,7 @@
 title: "On the Perception of Difficulty: Differences between Humans and AI"
 collection: publications
 permalink: /publication/perception_of_difficulty
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This research designs an experiment to understand and compare the perceived difficulty in human-AI interactions, aiming to improve collaboration by accurately evaluating the capabilities of both human and AI agents.'
 date: 2023-04-01
 venue: 'AutomationXP23: Intervening, Teaming, Delegating - Creating Engaging Automation Experiences, CHI ’23'
 citation: 'Spitzer, P., Holstein, J., Vössing, M., Kühl, N. (2023). "On the Perception of Difficulty: Differences between Humans and AI." <i>AutomationXP23: Intervening, Teaming, Delegating - Creating Engaging Automation Experiences, CHI ’23</i>'

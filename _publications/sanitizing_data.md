@@ -2,7 +2,7 @@
 title: "Sanitizing data for analysis: Designing systems for data understanding"
 collection: publications
 permalink: /Designing_systems_for_data_understanding
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This study introduces a hybrid approach combining expert knowledge and automation for metadata generation in high-dimensional datasets, enhancing data understanding and decision-making, validated by a pharmaceutical company case study.'
 date: 2023-10-09
 venue: 'Electronic Markets'
 paperurl:
