@@ -1,7 +1,7 @@
 ---
 title: "Sanitizing data for analysis: Designing systems for data understanding"
 collection: publications
-permalink: /Designing_systems_for_data_understanding
+permalink: /publication/designing_systems_for_data_understanding
 excerpt: 'This study introduces a hybrid approach combining expert knowledge and automation for metadata generation in high-dimensional datasets, enhancing data understanding and decision-making, validated by a pharmaceutical company case study.'
 date: 2023-10-09
 venue: 'Electronic Markets'
