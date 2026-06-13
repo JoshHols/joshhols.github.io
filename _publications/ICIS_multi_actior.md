@@ -1,4 +1,6 @@
 ---
+header:
+  teaser: ai_mental_models.png
 title: "A Multi-Actor Benefit Classification for Inter-Organizational Data Sharing in Ecosystems"
 collection: publications
 permalink: /publication/data_sharing_ecosystems

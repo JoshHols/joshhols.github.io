@@ -1,4 +1,7 @@
 ---
+featured: true
+header:
+  teaser: ai_mental_models.png
 title: "Development of Mental Models in Human-AI Collaboration: A Conceptual Framework"
 collection: publications
 permalink: /publication/mental_models_hai

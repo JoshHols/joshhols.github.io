@@ -1,4 +1,6 @@
 ---
+header:
+  teaser: ai_data_centric.png
 title: "Data Quality Challenges in Retrieval-Augmented Generation"
 collection: publications
 permalink: /publication/dq_challenges_rag

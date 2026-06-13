@@ -12,11 +12,20 @@ Hey! I am a postdoctoral researcher at Karlsruhe Institute of Technology. My res
 
 I use behavioral experiments and design science methods to understand how people form mental models of AI systems, and use these insights to design and evaluate interventions that improve decision outcomes. These range from uncertainty communication and explainability to incentive alignment, with a particular focus on avoiding pitfalls like overreliance and misinformation effects.
 
-If you're interested in my research or think we could collaborate, I'd love to hear from you!
+### Research Focus Areas
+* **Human-AI Collaboration:** Designing systems that leverage human-AI complementarities.
+* **Decision-Making under Uncertainty:** Studying reliance behavior given aleatoric and epistemic uncertainty.
+* **Incentive Alignment:** Counteracting systematic overreliance through carefully designed incentive mechanisms.
+* **Mental Models:** Understanding how humans conceptualize and adapt to AI partners over time.
+
+<div style="background: rgba(2, 132, 199, 0.1); border-left: 4px solid #0284c7; padding: 1em 1.5em; border-radius: 4px; margin: 2em 0;">
+  <strong>Interested in collaborating?</strong> I am always open to new research ideas and collaboration in the realm of human-AI interaction. I'd love to hear from you!
+</div>
 
 News
 ---
 
+* [June '26] Our paper "When Thinking Pays Off: Incentive Alignment for Human-AI Collaboration" has been accepted at FAccT 2026!
 * [Mar '26] I just defended my thesis and started as a postdoc at Karlsruhe Institute of Technology! Looking forward to this new chapter!
 * [Dec '25] Our paper "Balancing the Unknown: Exploring Human Reliance on AI Advice under Aleatoric and Epistemic Uncertainty" has been published in ACM Transactions on Computer-Human Interaction and will be presented at CHI'26!
 * [Nov '25] Our paper "When Thinking Pays Off: Incentive Alignment for Human-AI Collaboration" is now available as a preprint on arXiv!

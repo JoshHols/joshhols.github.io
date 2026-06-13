@@ -1,4 +1,7 @@
 ---
+featured: true
+header:
+  teaser: ai_misinformation.png
 title: "Balancing the Unknown: Exploring Human Reliance on AI Advice under Aleatoric and Epistemic Uncertainty"
 collection: publications
 permalink: /publication/uncertainty_human_ai

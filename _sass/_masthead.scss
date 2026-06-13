@@ -4,7 +4,15 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  border-radius: 30px;
+  margin: 1em auto;
+  width: 95%;
+  max-width: 1200px;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -14,11 +22,12 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1.2em 2em;
     font-family: $sans-serif-narrow;
+    max-width: 100% !important;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: 100% !important;
     }
 
     nav {
