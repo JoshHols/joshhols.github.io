@@ -1,7 +1,7 @@
 ---
 featured: true
 header:
-  teaser: ai_data_centric.png
+  teaser: incentives.png
 title: "When Thinking Pays Off: Incentive Alignment for Human-AI Collaboration"
 collection: publications
 permalink: /publication/incentive_alignment_hai
